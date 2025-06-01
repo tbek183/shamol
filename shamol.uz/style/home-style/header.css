@@ -1,0 +1,16 @@
+header{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header>h1{
+    margin-left: 15px;
+}
+header>div>input{
+    height: 25px;
+    margin-right: 10px;
+}
+header>div>input::placeholder{
+    margin-left: 5px;
+}

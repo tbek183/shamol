@@ -1,0 +1,39 @@
+.news-of-the-day>h1{
+    margin-left: 15px;
+}
+.politic-economic-new{
+    margin-left: 15px;
+    max-width: 500px;
+    margin-top: 10px;
+}
+.most-important-new{
+    max-width: 800px;
+    margin-left: 15px;
+    margin-top: 10px;
+    display: flex;
+
+}
+.news-of-the-day>div{
+    display: flex;
+    align-items: center;
+}
+.most-important-new>img{
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.currency>ul{
+    list-style: none;
+    margin-left: 10px;
+}
+.category-news-picked{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.category-news-picked>div{
+    max-width: 350px;
+}
+.category-news-picked>div>img{
+   width: 350px;
+}
